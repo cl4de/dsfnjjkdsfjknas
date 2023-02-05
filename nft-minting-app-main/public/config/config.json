@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x1DcEc6475B0885449c7bd8585AB7cE45B16D66b9",
+  "SCAN_LINK": "https://evm.explorer.canto.io/address/0x1DcEc6475B0885449c7bd8585AB7cE45B16D66b9",
+  "NETWORK": {
+    "NAME": "Canto",
+    "SYMBOL": "Canto",
+    "ID": 7700
+  },
+  "NFT_NAME": "Canto Kitsune Fox Club",
+  "SYMBOL": "CKF",
+  "MAX_SUPPLY": 3333,
+  "WEI_COST": 3000000000000000000,
+  "DISPLAY_COST": 3,
+  "GAS_LIMIT": 140000,
+  "MARKETPLACE": "Alto.Build",
+  "MARKETPLACE_LINK": "https://alto.build/collections/canto-kitsune-fox-club",
+  "SHOW_BACKGROUND": true
+}
